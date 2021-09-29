@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/SundyWundy/CurrencyRates/static/css/main.621771e7.chunk.css",
-    "main.js": "/SundyWundy/CurrencyRates/static/js/main.79540ffb.chunk.js",
-    "main.js.map": "/SundyWundy/CurrencyRates/static/js/main.79540ffb.chunk.js.map",
-    "runtime-main.js": "/SundyWundy/CurrencyRates/static/js/runtime-main.5dc1270c.js",
-    "runtime-main.js.map": "/SundyWundy/CurrencyRates/static/js/runtime-main.5dc1270c.js.map",
-    "static/js/2.ca5be18c.chunk.js": "/SundyWundy/CurrencyRates/static/js/2.ca5be18c.chunk.js",
-    "static/js/2.ca5be18c.chunk.js.map": "/SundyWundy/CurrencyRates/static/js/2.ca5be18c.chunk.js.map",
-    "index.html": "/SundyWundy/CurrencyRates/index.html",
-    "static/css/main.621771e7.chunk.css.map": "/SundyWundy/CurrencyRates/static/css/main.621771e7.chunk.css.map",
-    "static/js/2.ca5be18c.chunk.js.LICENSE.txt": "/SundyWundy/CurrencyRates/static/js/2.ca5be18c.chunk.js.LICENSE.txt"
+    "main.css": "/CurrencyRates/static/css/main.621771e7.chunk.css",
+    "main.js": "/CurrencyRates/static/js/main.79540ffb.chunk.js",
+    "main.js.map": "/CurrencyRates/static/js/main.79540ffb.chunk.js.map",
+    "runtime-main.js": "/CurrencyRates/static/js/runtime-main.29507687.js",
+    "runtime-main.js.map": "/CurrencyRates/static/js/runtime-main.29507687.js.map",
+    "static/js/2.ca5be18c.chunk.js": "/CurrencyRates/static/js/2.ca5be18c.chunk.js",
+    "static/js/2.ca5be18c.chunk.js.map": "/CurrencyRates/static/js/2.ca5be18c.chunk.js.map",
+    "index.html": "/CurrencyRates/index.html",
+    "static/css/main.621771e7.chunk.css.map": "/CurrencyRates/static/css/main.621771e7.chunk.css.map",
+    "static/js/2.ca5be18c.chunk.js.LICENSE.txt": "/CurrencyRates/static/js/2.ca5be18c.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5dc1270c.js",
+    "static/js/runtime-main.29507687.js",
     "static/js/2.ca5be18c.chunk.js",
     "static/css/main.621771e7.chunk.css",
     "static/js/main.79540ffb.chunk.js"
