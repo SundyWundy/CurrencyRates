@@ -1,0 +1,19 @@
+.CurrencyInput {
+  height: 35px;
+  width: 125px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  border-style: groove;
+  font-size: larger;
+  padding-left: 10px;
+  border-width: 1px;
+}
+
+.selectList {
+  height: 38.5px;
+  margin-left: 10px;
+  border-radius: 5px;
+  border-style: groove;
+  padding-left: 10px;
+  font-size: larger;
+}
